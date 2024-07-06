@@ -3,6 +3,10 @@
     margin: 0 auto;
 }
 
+body {
+    background-color: rgb(147, 140, 140);
+}
+
 div.forecasts {
     display: inline-block;
     width: 30%;
